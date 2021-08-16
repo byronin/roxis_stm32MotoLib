@@ -1,0 +1,10 @@
+core_cm3.h:1014:22:NVIC_SetPriority	16	static
+core_cm3.h:1139:26:SysTick_Config	16	static
+pwm.c:19:6:systemClockEnable	8	static
+pwm.c:25:6:SysTick_Handler	4	static
+pwm.c:31:6:Motor_Delay	16	static
+pwm.c:38:6:MotorRun	16	static
+pwm.c:163:6:MotorConfig	8	static
+pwm.c:773:6:Basic_MotorConfig	8	static
+pwm.c:1000:6:Basic_MotorRun	8	static
+pwm.c:1014:6:Motor_Stop	8	static
